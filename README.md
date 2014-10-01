@@ -6,6 +6,11 @@ ISUCON4
 - https://www.facebook.com/events/1485579115059388
 
 
+### 目を通しておきたいリンク
+
+- [ISUCON4 オンライン予選参加者向け 予習に使えるエントリまとめ : ISUCON公式Blog](http://isucon.net/archives/40403113.html)
+
+
 ### 予選ブログ
 
 - [DSAS開発者の部屋:ISUCON4 予選で workload=5 で 88000点出す方法 (lily white 参戦記)](http://dsas.blog.klab.org/archives/52171878.html)
